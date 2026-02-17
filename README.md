@@ -6,8 +6,7 @@ A Streamlit web app that generates programming code snippets from natural langua
 
 ## Repository Structure
 
-code-snippets-generator/
-│
+code-snippets-generator
 1. main.py                     # Final Streamlit app (ready to run)
 2. code_snippet.ipynb          # Colab notebook to download the model, explore it, fine-tune it, or modify it
 3. programming_code_snippets.csv  # Example programming queries and code snippets
